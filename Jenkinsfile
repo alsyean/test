@@ -8,7 +8,6 @@ pipeline {
       HOME = '.' // Avoid npm root owned
     }
 
-
   stages {
     
      stage('Start') {
