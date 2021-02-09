@@ -3,6 +3,7 @@
 안녕하세요! 이번 시간에는 아시는 분들은 거의다 아시는(!?) Gradle을 이용한 멀티 프로젝트(모듈) 관리에 대해 소개하려고 합니다.  
 모든 코드는 [Github](https://github.com/jojoldu/blog-code/tree/master/gradle-multi-modules)에 있으니 참고하셔서 보시면 더 좋으실 것 같습니다.  
 
+
 > 공부한 내용을 정리하는 [blog-code](https://github.com/jojoldu/blog-code)와 세미나+책 후기를 정리하는 [review](https://github.com/jojoldu/review), 이걸 모두 정리하는 [블로그](http://jojoldu.tistory.com/)가 있습니다.) 
 
 대부분의 서비스는 단일 프로젝트로 구성되는 일이 거의 없습니다.  
