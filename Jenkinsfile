@@ -7,7 +7,6 @@ pipeline {
       AWS_DEFAULT_REGION = 'ap-northeast-2'
       HOME = '.' // Avoid npm root owned
     }
-
   stages {
     
      stage('Start') {
