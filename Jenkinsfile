@@ -8,7 +8,6 @@ pipeline {
       HOME = '.' // Avoid npm root owned
     }
 
-
   stages {
     
      stage('Start') {
@@ -44,7 +43,6 @@ pipeline {
                 always {
                     echo 'i tired ...'
                 }
-
                 cleanup {
                     echo 'after all other post'
                 }
