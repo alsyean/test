@@ -43,7 +43,6 @@ pipeline {
                 always {
                     echo 'i tired ...'
                 }
-
                 cleanup {
                     echo 'after all other post'
                 }
